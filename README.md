@@ -6,6 +6,4 @@ STM32와 초음파 센서를 이용한 자율주행 자동차 프로젝트 입�
 </p>
 
 ## 자율주행 영상
-<p align="center">
-  <img src="https://github.com/youngbin-son/Autonomous_Car/assets/153488831/16bf28bc-eeac-4ffd-99e0-00b419770cda">
-</p>
+https://youtu.be/JLLWIp9mdio
